@@ -1,1 +1,1 @@
-# Clasificaci-n_Objetos_Labview_Python
+# Clasificacion_Objetos_Labview_Python
